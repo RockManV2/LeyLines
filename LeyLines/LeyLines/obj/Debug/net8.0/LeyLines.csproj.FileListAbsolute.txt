@@ -1,0 +1,13 @@
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\bin\Debug\net8.0\LeyLines.deps.json
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\bin\Debug\net8.0\LeyLines.dll
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\bin\Debug\net8.0\LeyLines.pdb
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.csproj.AssemblyReference.cache
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.AssemblyInfoInputs.cache
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.AssemblyInfo.cs
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.csproj.CoreCompileInputs.cache
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.sourcelink.json
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.dll
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\refint\LeyLines.dll
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\LeyLines.pdb
+C:\Users\sjoos\Desktop\LeyLines\LeyLines\LeyLines\obj\Debug\net8.0\ref\LeyLines.dll

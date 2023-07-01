@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKDWgILntmytcVf6zPCOTObxNrmjnfQFDjYNe4hDzBghrCjvdNjH41glz2K0EkqfUGASwNH8iXqGUosWbaMGhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sjoos\\Desktop\\LeyLines\\LeyLines\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk\\4.7.7\\opentk.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.compute\\4.7.7\\opentk.compute.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.core\\4.7.7\\opentk.core.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.graphics\\4.7.7\\opentk.graphics.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.input\\4.7.7\\opentk.input.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.mathematics\\4.7.7\\opentk.mathematics.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.openal\\4.7.7\\opentk.openal.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.30\\opentk.redist.glfw.3.3.8.30.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.windowing.common\\4.7.7\\opentk.windowing.common.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.windowing.desktop\\4.7.7\\opentk.windowing.desktop.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.7\\opentk.windowing.graphicslibraryframework.4.7.7.nupkg.sha512",
+    "C:\\Users\\sjoos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
